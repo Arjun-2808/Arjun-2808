@@ -14,7 +14,7 @@
 - 🐉 Represented NTU in national dragon boat competitions 🥇 (Even won 1st in Nationals that took place in June 2024)
 
 ---
-
+[![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arjun-2808)](https://github.com/anuraghazra/github-readme-stats)
 ### 🧰 Tech Arsenal
 
 ```python
@@ -24,4 +24,3 @@ Hardware: STM32, ESP32, Raspberry Pi
 Design Tools: KiCad, LTSpice, Vivado, Code Composer Studio (DSP)  
 Other: Git, Linux, REST APIs
 
-[![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arjun-2808)](https://github.com/anuraghazra/github-readme-stats)

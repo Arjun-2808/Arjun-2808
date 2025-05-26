@@ -18,7 +18,7 @@
 
 ```python
 Languages: Python, C++, Java, SQL, R, Matlab  
-Frameworks: TensorFlow, PyTorch, Scikit-Learn, OpenCV, Streamlit, NumPy, Pandas, Matplotlib, Seaborn
+Frameworks: TensorFlow, PyTorch, Scikit-Learn, OpenCV, Streamlit, NumPy, Pandas, Matplotlib, Seaborn, Librosa, Torchaudio
 Hardware: STM32, ESP32, Raspberry Pi  
 Design Tools: KiCad, LTSpice, Vivado, Code Composer Studio (DSP)  
 Other: Git, Linux, REST APIs

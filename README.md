@@ -25,4 +25,8 @@ Frameworks: TensorFlow, PyTorch, Scikit-Learn, OpenCV, Streamlit, NumPy, Pandas,
 Hardware: STM32, ESP32, Raspberry Pi  
 Design Tools: KiCad, LTSpice, Vivado, Code Composer Studio (DSP)  
 Other: Git, Linux, REST APIs
+```
+![](https://nirzak-streak-stats.vercel.app/?user=Arjun-2808&theme=dark&hide_border=false)<br/>
+
+
 

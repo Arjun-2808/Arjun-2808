@@ -7,7 +7,7 @@
 
 ### ⚡ About Me
 
-- 🎓 I'm an Electrical & Electronics Engineering student at NTU Singapore (2023–2027)
+- 🎓 I'm an Electrical & Electronics Engineering student at NTU Singapore (2023–2027), Currently interning at ASTAR (I2R dept.) under the Aural and Langauge Intelligence Team
 - 🛠 Currently building **invisible headphones** using ultrasound DSP & Class D op-amps with Prof. Ge Tong
 - 🧠 Researching multi-scale CNNs & their applications with Prof. Wang Lipo
 - 🤖 Developed algorithms & backend systems for smart dating, earthquake prediction & more
